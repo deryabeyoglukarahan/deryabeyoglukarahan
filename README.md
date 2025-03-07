@@ -2,7 +2,6 @@
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React**
-- 
 - ⚡ Fun fact **When I'm coding, you can find at least 5 coffee cups on my desk. Never Without Coffee!**
 
 <h3 align="left">Languages</h3>
