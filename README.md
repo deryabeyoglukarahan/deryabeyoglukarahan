@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derya</h1>
-<h3 align="center" style="color:purple;">Frontend Developer</h3>
+<h3 align="left">💫 About Me:</h3>
 
 ---
 
