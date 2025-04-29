@@ -3,8 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React**
-- 📚 I'm currently enrolled in the **Fullstack Web Development** program at [Patika.dev](https://www.patika.dev)
+- 📚 I have started my Fullstack Web Development journey.
 - ⚡ Fun fact: **When I'm coding, you can find at least 5 coffee cups on my desk. Never Without Coffee!**
 
 ---
