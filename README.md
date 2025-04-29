@@ -3,6 +3,7 @@
 
 ---
 
+- 🎓 I graduated with a degree in **Computer Engineering**.
 - 📚 I have started my Fullstack Web Development journey.
 - ⚡ Fun fact: **When I'm coding, you can find at least 5 coffee cups on my desk. Never Without Coffee!**
 
