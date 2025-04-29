@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="left">Languages & Technologies</h3>
+<h3 align="left">💻 Languages & Technologies</h3>
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
